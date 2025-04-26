@@ -1,0 +1,8 @@
+opencv-python==4.11.0
+torch==2.6.0+cpu
+torchvision==2.6.0+cpu
+albumentations==2.0.5
+efficientnet-pytorch==0.7.1
+tqdm==4.67.1
+scikit-learn==1.6.1
+matplotlib==3.9.3
